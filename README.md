@@ -1,21 +1,22 @@
 # Silver_Mhon
 A set of devices with a built-in display, buttons, and sensors, that exchange information via LoRa about the sensors to display the data on screen and allow for monitoring of the home.
+
 SENSORS CURRENTLY BUILT:
   
-     -Temperature
+     Temperature
       -SSD1306 (I2C)
       -Raspberry Pico
       -LoRa SX1278 433MHz (SPI)
       -TinyRTC (I2C)
      
-     -Level Tank
+     Level Tank
       -SSD1306 (I2C)
       -Raspberry Pico
       -LoRa SX1278 433MHz (SPI)
       -TinyRTC (I2C)
       -HC-SR04
     
-    -Mail Box (need to update photo)
+    Mail Box (need to update photo)
       -Raspberry Pico
       -LoRa SX1278 433MHz (SPI)
       -TinyRTC (I2C0)
