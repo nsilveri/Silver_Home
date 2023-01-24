@@ -16,7 +16,7 @@ SENSORS CURRENTLY BUILT:
       -TinyRTC (I2C)
       -HC-SR04
     
-    Mail Box (need to update photo)
+     Mail Box (need to update photo)
       -Raspberry Pico
       -LoRa SX1278 433MHz (SPI)
       -TinyRTC (I2C0)
